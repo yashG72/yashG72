@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Web Developer<br>👨‍💻Full Stack Developer specialized in MERN<br>🧑‍🎓 Sophomore in Information Technology<br>👀 Seeking opportunities to collaborate with like-minded individuals<br>
+💻Web Developer<br>👨‍💻Full Stack Developer specialized in MERN<br>🧑‍🎓 Final Year in Information Technology<br>👀 Seeking opportunities to collaborate with like-minded individuals<br>
 
 
 ## 🌐 Socials:
